@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Quiz Generator",
+  "description": "An interactive quiz application that generates multiple-choice questions with illustrative images from any topic using AI. Features include audio feedback, a countdown timer, and a final score summary.",
+  "requestFramePermissions": []
+}
